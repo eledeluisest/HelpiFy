@@ -14,7 +14,7 @@ def csv2json(file, path = None,sep=';', header=0, path_to = None, obs=None):
     if path is not None:
         pd.read_csv(path+'/'+file+".csv", sep=sep, header=header, nrows=obs).to_json(path_to+'/'+file+".json")
     else:
-        pd.read_csv( './' + file+".csv", sep=sep, header=header, nrows=obs).to_json('./' + file+".json")
+        pd.read_csv( './data/' + file+".csv", sep=sep, header=header, nrows=obs).to_json('./' + file+".json")
 csv2json("estado_catastrofe")
 csv2json("estado_civil")
 csv2json("estado_salud")
