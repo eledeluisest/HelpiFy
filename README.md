@@ -25,3 +25,6 @@ Anyway given processing time limitations we used .py run locally
 ## Dashboard
 - 2_statistics.py: Populates a DB2 that is the source for the following
 cognos dashboard: https://eu-gb.dataplatform.cloud.ibm.com/dashboards/f090b7a0-3b4d-4c29-a072-6983b07e65b5/view/5b1fd40238b232cc50c3d4e407cd7d042e622d55bbbbd00484847b490a652397a8381097c87e4f5c88195366f3bf1a5fcc
+## Chatbot
+IBM assistant: 
+https://assistant-chat-eu-de.watsonplatform.net/web/public/4546f99e-35d7-4ffe-9002-b112bf4d9101 
