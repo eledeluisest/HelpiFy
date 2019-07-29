@@ -1,6 +1,6 @@
 """
 25/06/2019
-Automatic generation of json from .csv using pandas
+Automatic generation of json from .csv using pandas to manualy update to Cloudant
 
 names get from:
 https://github.com/jvalhondo/spanish-names-surnames
