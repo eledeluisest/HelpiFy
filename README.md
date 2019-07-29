@@ -8,7 +8,8 @@ we will use to feed manualy our cloudant.
 - 1_1_DataSimulation.ipynb: Data generation to feed the cloudant
  as an emergency was taking place.
 - 2_statistics.py: Data Processing to load a DB2 database.
-
+- demo_architecture.pptx: Shows PoC conceptual architecture
+ and describes next step real-time architechture on IBM cloud
 ## Conections and Sources.
 - 1_data_to_cloudant.py: .csv files in data/ directory.
 - 1_1_DataSimulation.ipynb: Connection to cloudant.
